@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Poem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Poem_jar</output-path>
+    <root id="archive" name="Poem.jar">
+      <element id="module-output" name="Poem" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jlayer1.0.1/jl1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
